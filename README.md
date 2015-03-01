@@ -1,8 +1,17 @@
-# DarkroomJS
+# PareJS
 
-DarkroomJS is a JavaScript library which provides basic image editing tools in
+PareJS is a JavaScript library which provides advanced cropping image editing tools in
 your browser, such as **rotation** or **cropping**. It is based on the awesome
 [FabricJS](http://fabricjs.com/) library to handle images in HTML5 canvas.
+
+## Why name it Pare?
+*pare — /pɛə/*
+verb (transitive) 
+1. to peel or cut (the outer layer) from (something)
+2. to cut the edges from (the nails); trim
+3. to decrease bit by bit
+
+The intention of this fork is to do more than darkroom already has. To focus on staging images in containers of aspect ratios and resolutions needed for a website, app or other publishing while forcing the photographer to maintain the needed quality.
 
 ## Demo
 
