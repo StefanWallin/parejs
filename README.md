@@ -1,8 +1,8 @@
 # PareJS
 
 PareJS is a JavaScript library which provides advanced cropping image editing tools in
-your browser, such as **rotation** or **cropping**. It is based on the awesome
-[FabricJS](http://fabricjs.com/) library to handle images in HTML5 canvas.
+your browser, such as **rotation**, **cropping**, **color tone** and **managing resolutions**. It is based on the awesome
+[DarkroomJS](https://mattketmo.github.io/darkroomjs/).
 
 ## Why name it Pare?
 **pare — /pɛə/** _verb (transitive)_
