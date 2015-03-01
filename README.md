@@ -7,9 +7,9 @@ your browser, such as **rotation** or **cropping**. It is based on the awesome
 ## Why name it Pare?
 *pare — /pɛə/*
 verb (transitive) 
-1. to peel or cut (the outer layer) from (something)
-2. to cut the edges from (the nails); trim
-3. to decrease bit by bit
+# to peel or cut (the outer layer) from (something)
+# to cut the edges from (the nails); trim
+# to decrease bit by bit
 
 The intention of this fork is to do more than darkroom already has. To focus on staging images in containers of aspect ratios and resolutions needed for a website, app or other publishing while forcing the photographer to maintain the needed quality.
 
