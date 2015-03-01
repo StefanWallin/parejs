@@ -5,11 +5,10 @@ your browser, such as **rotation** or **cropping**. It is based on the awesome
 [FabricJS](http://fabricjs.com/) library to handle images in HTML5 canvas.
 
 ## Why name it Pare?
-*pare — /pɛə/*
-verb (transitive) 
-# to peel or cut (the outer layer) from (something)
-# to cut the edges from (the nails); trim
-# to decrease bit by bit
+**pare — /pɛə/** _verb (transitive)_
+* to peel or cut (the outer layer) from (something)
+* to cut the edges from (the nails); trim
+* to decrease bit by bit
 
 The intention of this fork is to do more than darkroom already has. To focus on staging images in containers of aspect ratios and resolutions needed for a website, app or other publishing while forcing the photographer to maintain the needed quality.
 
